@@ -1,2 +1,3 @@
 echo "welcome to sample project" 
-sample update
+echo "sample update"
+echo "second update"
